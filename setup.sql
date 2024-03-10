@@ -1,5 +1,4 @@
 sqlite3 MyPracticeDB.db 
-
 CREATE TABLE authors (
 author_id INTEGER PRIMARY KEY,
 name TEXT NOT NULL,
